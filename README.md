@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prajyot1234
-- 👀 I’m interested in ReactJS
+- 👀 I’m interested in ReactJS and NextJS
 - 🌱 I’m currently learning frontend web technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
